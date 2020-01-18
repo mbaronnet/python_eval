@@ -1,0 +1,6 @@
+abcdefghi
+abcdfghi
+abcdef
+abcdfg
+ACGT
+ACCT
